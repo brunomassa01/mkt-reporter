@@ -1,5 +1,5 @@
 {
-  "name": "mkt-reporter-2",
+  "name": "mkt-reporter",
   "version": "1.0.0",
   "main": "server.ts",
   "dependencies": {
